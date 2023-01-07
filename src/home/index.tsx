@@ -39,7 +39,6 @@ export const Home = ({ isLoggedIn }: LoginInterface) => {
         navigate('/');
         localStorage.removeItem('isLoggedIn');
     }
-
     return <>
         <Protected>
             {
