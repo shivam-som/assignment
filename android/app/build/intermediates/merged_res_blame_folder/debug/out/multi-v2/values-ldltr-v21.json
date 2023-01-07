@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.ionic.assignment.app-mergeDebugResources-18:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shiva\\.gradle\\caches\\transforms-3\\ad6e77452ce0b37e5cca2f4152ee9c30\\transformed\\appcompat-1.4.2\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
