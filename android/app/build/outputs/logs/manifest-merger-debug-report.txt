@@ -1,22 +1,22 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:27:9-35:20
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:grantUriPermissions
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:31:13-47
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:31:13-47
 	android:authorities
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:29:13-64
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:29:13-64
 	android:exported
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:30:13-37
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:28:13-62
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:28:13-62
 manifest
-ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-MERGED from [:capacitor-android] D:\assignment\assignment\node_modules\@capacitor\android\capacitor\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:capacitor-cordova-android-plugins] D:\assignment\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
+ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [:capacitor-android] D:\assignment\node_modules\@capacitor\android\capacitor\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:capacitor-cordova-android-plugins] D:\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\shiva\.gradle\caches\transforms-3\ad6e77452ce0b37e5cca2f4152ee9c30\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\shiva\.gradle\caches\transforms-3\413b7ad211016b03b6efd3a6afe53f4c\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-splashscreen:1.0.0-rc01] C:\Users\shiva\.gradle\caches\transforms-3\b764382ea55ac12b20239746a04d194b\transformed\jetified-core-splashscreen-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
@@ -49,27 +49,27 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\shiva\.g
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\shiva\.gradle\caches\transforms-3\5200783563aa148719d5cebb53eba8f4\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [org.apache.cordova:framework:10.1.1] C:\Users\shiva\.gradle\caches\transforms-3\1af9644565365b51ee4c6b613ebdaba7\transformed\jetified-framework-10.1.1\AndroidManifest.xml:20:1-27:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\shiva\.gradle\caches\transforms-3\1e390b8bbe74354a29b368a38090eb2c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:4:5-36:19
-MERGED from [:capacitor-cordova-android-plugins] D:\assignment\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-11:19
-MERGED from [:capacitor-cordova-android-plugins] D:\assignment\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-11:19
+ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:4:5-36:19
+MERGED from [:capacitor-cordova-android-plugins] D:\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-11:19
+MERGED from [:capacitor-cordova-android-plugins] D:\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-11:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\shiva\.gradle\caches\transforms-3\16b3f02e5594c504e498fdfc5a6967e3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\shiva\.gradle\caches\transforms-3\16b3f02e5594c504e498fdfc5a6967e3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.core:core:1.8.0] C:\Users\shiva\.gradle\caches\transforms-3\cf27aeb78f2198c76c88b5b28a3978e4\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
@@ -83,53 +83,53 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\shiva\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\shiva\.gradle\caches\transforms-3\cf27aeb78f2198c76c88b5b28a3978e4\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:7:9-41
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:7:9-41
 	android:roundIcon
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:8:9-54
 	android:icon
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:6:9-43
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:6:9-43
 	android:allowBackup
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:5:9-35
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:5:9-35
 	android:theme
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:10:9-40
 activity#io.ionic.assignment.MainActivity
-ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:12:9-25:20
+ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:12:9-25:20
 	android:label
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:15:13-56
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:15:13-56
 	android:launchMode
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:17:13-44
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:17:13-44
 	android:exported
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:18:13-36
 	android:configChanges
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:13:13-129
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:13:13-129
 	android:theme
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:16:13-62
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:16:13-62
 	android:name
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:14:13-60
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:14:13-60
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:20:13-23:29
+ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:22:27-74
 uses-permission#android.permission.INTERNET
-ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:40:5-67
+ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:40:5-67
 	android:name
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:40:22-64
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:40:22-64
 uses-sdk
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-MERGED from [:capacitor-android] D:\assignment\assignment\node_modules\@capacitor\android\capacitor\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:capacitor-android] D:\assignment\assignment\node_modules\@capacitor\android\capacitor\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:capacitor-cordova-android-plugins] D:\assignment\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
-MERGED from [:capacitor-cordova-android-plugins] D:\assignment\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+MERGED from [:capacitor-android] D:\assignment\node_modules\@capacitor\android\capacitor\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:capacitor-android] D:\assignment\node_modules\@capacitor\android\capacitor\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:capacitor-cordova-android-plugins] D:\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:capacitor-cordova-android-plugins] D:\assignment\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\shiva\.gradle\caches\transforms-3\ad6e77452ce0b37e5cca2f4152ee9c30\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\shiva\.gradle\caches\transforms-3\ad6e77452ce0b37e5cca2f4152ee9c30\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\shiva\.gradle\caches\transforms-3\413b7ad211016b03b6efd3a6afe53f4c\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
@@ -194,22 +194,22 @@ MERGED from [org.apache.cordova:framework:10.1.1] C:\Users\shiva\.gradle\caches\
 MERGED from [org.apache.cordova:framework:10.1.1] C:\Users\shiva\.gradle\caches\transforms-3\1af9644565365b51ee4c6b613ebdaba7\transformed\jetified-framework-10.1.1\AndroidManifest.xml:25:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\shiva\.gradle\caches\transforms-3\1e390b8bbe74354a29b368a38090eb2c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\shiva\.gradle\caches\transforms-3\1e390b8bbe74354a29b368a38090eb2c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\assignment\android\app\src\main\AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:32:13-34:64
+ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:32:13-34:64
 	android:resource
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:34:17-51
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:34:17-51
 	android:name
-		ADDED from D:\assignment\assignment\android\app\src\main\AndroidManifest.xml:33:17-67
+		ADDED from D:\assignment\android\app\src\main\AndroidManifest.xml:33:17-67
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\shiva\.gradle\caches\transforms-3\16b3f02e5594c504e498fdfc5a6967e3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\shiva\.gradle\caches\transforms-3\bf1371846bef0d818fd7467b5155d033\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

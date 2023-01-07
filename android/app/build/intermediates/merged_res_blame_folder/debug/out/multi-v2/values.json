@@ -40,39 +40,39 @@
                     }
                 },
                 {
-                    "source": "D:\\assignment\\assignment\\android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "source": "D:\\assignment\\node_modules\\@capacitor\\android\\capacitor\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "100,175,251,518",
+                        "endLines": "2,3,4,11",
+                        "endColumns": "74,75,79,22",
+                        "endOffsets": "170,246,326,628"
                     },
                     "to": {
-                        "startLines": "50",
-                        "startColumns": "4",
-                        "startOffsets": "3506",
-                        "endColumns": "56",
-                        "endOffsets": "3558"
+                        "startLines": "37,38,39,3282",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2594,2669,2745,176274",
+                        "endLines": "37,38,39,3284",
+                        "endColumns": "74,75,79,22",
+                        "endOffsets": "2664,2740,2820,176384"
                     }
                 },
                 {
-                    "source": "D:\\assignment\\assignment\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\assignment\\android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "4,11,18",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "93,413,664",
-                        "endLines": "9,15,20",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "407,657,810"
+                        "startLines": "2,5,4,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,228,166,106",
+                        "endColumns": "47,65,60,58",
+                        "endOffsets": "100,289,222,160"
                     },
                     "to": {
-                        "startLines": "325,331,336",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "21367,21651,21900",
-                        "endLines": "330,335,338",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "21646,21895,22046"
+                        "startLines": "314,315,316,319",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "20567,20615,20681,20866",
+                        "endColumns": "47,65,60,58",
+                        "endOffsets": "20610,20676,20737,20920"
                     }
                 },
                 {
@@ -129,20 +129,20 @@
                     }
                 },
                 {
-                    "source": "D:\\assignment\\assignment\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\assignment\\android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
-                        "startLines": "2,5,4,3",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,162,103",
-                        "endColumns": "47,65,60,58",
-                        "endOffsets": "98,284,218,157"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
                     },
                     "to": {
-                        "startLines": "314,315,316,319",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "20567,20615,20681,20866",
-                        "endColumns": "47,65,60,58",
-                        "endOffsets": "20610,20676,20737,20920"
+                        "startLines": "50",
+                        "startColumns": "4",
+                        "startOffsets": "3506",
+                        "endColumns": "56",
+                        "endOffsets": "3558"
                     }
                 },
                 {
@@ -165,25 +165,6 @@
                     }
                 },
                 {
-                    "source": "D:\\assignment\\assignment\\node_modules\\@capacitor\\android\\capacitor\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,9",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "100,175,251,518",
-                        "endLines": "2,3,4,11",
-                        "endColumns": "74,75,79,22",
-                        "endOffsets": "170,246,326,628"
-                    },
-                    "to": {
-                        "startLines": "37,38,39,3282",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "2594,2669,2745,176274",
-                        "endLines": "37,38,39,3284",
-                        "endColumns": "74,75,79,22",
-                        "endOffsets": "2664,2740,2820,176384"
-                    }
-                },
-                {
                     "source": "C:\\Users\\shiva\\.gradle\\caches\\transforms-3\\b764382ea55ac12b20239746a04d194b\\transformed\\jetified-core-splashscreen-1.0.0-rc01\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,32,45",
@@ -200,6 +181,25 @@
                         "endLines": "7,8,10,11,12,13,197,198,199,200,201,202,203,284,593,594,595,1426,1428,1755,1768,1772",
                         "endColumns": "59,58,68,71,62,71,73,75,75,76,70,68,70,67,80,91,92,12,12,12,12,12",
                         "endOffsets": "475,534,644,716,779,851,13541,13617,13693,13770,13841,13910,13981,18543,38781,38873,38966,91419,91540,116280,117055,117328"
+                    }
+                },
+                {
+                    "source": "D:\\assignment\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "4,11,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "97,424,682",
+                        "endLines": "9,15,20",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "416,672,830"
+                    },
+                    "to": {
+                        "startLines": "325,331,336",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "21367,21651,21900",
+                        "endLines": "330,335,338",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "21646,21895,22046"
                     }
                 },
                 {
