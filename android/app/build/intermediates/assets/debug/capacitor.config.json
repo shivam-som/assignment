@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.assignment",
+	"appName": "assignment",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {}
+}

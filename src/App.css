@@ -1,0 +1,22 @@
+.comment-question {
+  font-weight: bold !important;
+}
+.heading {
+  text-align: center;
+  text-decoration: underline;
+}
+#standard-basic {
+  width: 75vw;
+}
+.home-wrapper {
+  margin: 5%;
+}
+.question-wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+.file-wrapper {
+  width: 250px;
+  margin: 0 auto;
+}
+
